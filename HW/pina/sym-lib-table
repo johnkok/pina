@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "MIC24045")(type "KiCad")(uri "${KIPRJMOD}/MIC24045-EIYFL-TR.kicad_sym")(options "")(descr ""))
+  (lib (name "pico-w")(type "KiCad")(uri "${KIPRJMOD}/Raspberry_Pi_Pico_W_SC0918.kicad_sym")(options "")(descr ""))
+)
