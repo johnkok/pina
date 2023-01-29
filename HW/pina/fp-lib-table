@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name "pina")(type "KiCad")(uri "${KIPRJMOD}/pina-backups")(options "")(descr ""))
+  (lib (name "g6b")(type "KiCad")(uri "/opt/pina/HW/pina")(options "")(descr ""))
 )
